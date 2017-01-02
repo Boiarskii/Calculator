@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="facebook_app_id">353215715057357</string>
+
+
+    <string name="app_name">Fusion Calculator</string>
+    <string name="title_activity_main">Fusion Calculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="pressed">" нажал на "</string>
+    <string name="buttons_and_got_result">" кнопок и получил результат: "</string>
+    <string name="calculations">". Вычисления: "</string>
+    <string name="division_by_zero">"Ну не дели ты на 0!"</string>
+    <string name="invalid_sqrt">"Корень из отрицательного числа?"</string>
+    <string name="invalid_result">"Результат слишком большой"</string>
+    <string name="operation_statistics">"Статистика операций"</string>
+    <string name="your_name">Ваше имя?</string>
+    <string name="ready_button_text">ГОТОВ КАЛЬКУЛИРОВАТЬ</string>
+    <string name="veleaevdenis_gmail_com">veleaevdenis@gmail.com</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="history">История</string>
+    <string name="graph">График</string>
+    <string name="additional">Дополнительно</string>
+    <string name="share">Поделиться</string>
+    <string name="clear_history">Стереть историю</string>
+    <string name="cheese">Улыбнитесь!</string>
+
+
+</resources>

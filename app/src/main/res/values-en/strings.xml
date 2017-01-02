@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="facebook_app_id">353215715057357</string>
+
+
+    <string name="app_name">Fusion Calculator</string>
+    <string name="title_activity_main">Fusion Calculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="pressed">" pressed "</string>
+    <string name="buttons_and_got_result">" buttons and got result: "</string>
+    <string name="calculations">". Calculations: "</string>
+    <string name="division_by_zero">"You can not divide by zero!"</string>
+    <string name="invalid_sqrt">"Root of a negative number."</string>
+    <string name="invalid_result">"Result too large."</string>
+    <string name="operation_statistics">"Statistics"</string>
+    <string name="your_name">Your name?</string>
+    <string name="ready_button_text">READY TO CALCULATE</string>
+    <string name="veleaevdenis_gmail_com">veleaevdenis@gmail.com</string>
+    <string name="calculator">Calculator</string>
+    <string name="history">History</string>
+    <string name="graph">Graph</string>
+    <string name="additional">Additional</string>
+    <string name="share">Share</string>
+    <string name="clear_history">Clear the history</string>
+    <string name="cheese">Cheese!</string>
+
+
+
+</resources>
